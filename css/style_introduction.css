@@ -678,7 +678,7 @@ section.content .tab-menu2 .fixed.top.sticky{box-shadow: -2px 5px 20px -6px rgb(
 .introduction.itd2.eng .semi_course .semi_course_middle > ul li{height:80px}
 .introduction.itd2.eng .semi_course .semi_course_middle.v_center ul:last-of-type{margin-top:-90px}
 .introduction.itd2.eng .semi_badge dl{display: block; margin-bottom:6px}
-.introduction.itd2.eng .semi_badge button{margin-top:12px}
+.introduction.itd2.eng .semi_badge button{margin-top:12px; cursor: default;}
 .introduction.itd2.eng .semi_course .semi_course_middle .ts_style{display: inline-block; top:-2px; left:0; width:64px; height: 17px; background: transparent;}
 .introduction.itd2.eng .semi_wrap:last-child .semi_chan{padding:12px 10px}
 .introduction.itd2.chn .college-cont-title.energy .label,
