@@ -144,7 +144,7 @@ section.content .tab-menu2 .fixed.top.sticky{box-shadow: -2px 5px 20px -6px rgb(
 
 .introduction.itd2 .text-left-box {display:inline-block;}
 .introduction.itd2 .text-right-box {text-align:right;margin-bottom:2rem;}
-.introduction.itd2 .text-right-box .item-button {display: inline-block;width: 7.5rem;vertical-align: middle;text-align: center;height: 2rem;font-size: 0.75rem;color: #4c4c4c;padding: 0.35rem;font-weight: bold;border: 1px solid #4c4c4c;border-radius: 6px;}
+.introduction.itd2 .text-right-box .item-button {display: inline-block;width: 7.5rem;vertical-align: middle;text-align: center;height: 2rem;font-size: 0.75rem;color: #4c4c4c;padding: 0.35rem;font-weight: bold;border: 1px solid #4c4c4c;border-radius: 6px; }
 .introduction.itd2 .text-right-box .item-button > img {vertical-align: bottom;margin-right: 0.313rem;}
 
 .introduction.itd2 .bedge-box {position:absolute;top:0.375rem;right:0.375rem;}
@@ -717,4 +717,4 @@ section.content .tab-menu2 .fixed.top.sticky{box-shadow: -2px 5px 20px -6px rgb(
 .introduction.itd2 .ai-con-text .mg10{display: block; margin-top:10px}
 .introduction.itd2.chn .sub-tab-menu.dt .college-sub-txt > div > ul > li{word-break: break-all;}
 .introduction.itd2.eng .legal-wrap .con_wrap.sub01 + img + .sub02 .con_sub_box a:nth-child(1) ul{height: 217px;}
-.introduction.itd2.eng a, .introduction.itd2.chn a{cursor: default !important;}
+.introduction.itd2.eng .college-free3.sub a, .introduction.itd2.chn .college-free3.sub a{cursor: default !important;}
