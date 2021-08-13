@@ -717,4 +717,4 @@ section.content .tab-menu2 .fixed.top.sticky{box-shadow: -2px 5px 20px -6px rgb(
 .introduction.itd2 .ai-con-text .mg10{display: block; margin-top:10px}
 .introduction.itd2.chn .sub-tab-menu.dt .college-sub-txt > div > ul > li{word-break: break-all;}
 .introduction.itd2.eng .legal-wrap .con_wrap.sub01 + img + .sub02 .con_sub_box a:nth-child(1) ul{height: 217px;}
-.introduction.itd2.eng a, .introduction.itd2.chn a{cursor: auto;}
+.introduction.itd2.eng a, .introduction.itd2.chn a{cursor: default !important;}
