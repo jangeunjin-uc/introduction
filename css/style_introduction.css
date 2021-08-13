@@ -719,8 +719,8 @@ section.content .tab-menu2 .fixed.top.sticky{box-shadow: -2px 5px 20px -6px rgb(
 .introduction.itd2.eng .legal-wrap .con_wrap.sub01 + img + .sub02 .con_sub_box a:nth-child(1) ul{height: 217px;}
 .introduction.itd2.eng .college-free3.sub .college-link-box a,
 .introduction.itd2.chn .college-free3.sub .college-link-box a,
-.introduction.itd2.eng .college-free3.sub .bm-wrap a,
-.introduction.itd2.chn .college-free3.sub .bm-wrap a,
+.introduction.itd2.eng .bm-wrap a,
+.introduction.itd2.chn .bm-wrap a,
 .introduction.itd2.eng .college-free3.sub .semi_wrap a,
 .introduction.itd2.chn .college-free3.sub .semi_wrap a{cursor: default !important;}
 .introduction.itd2.eng p.p_link, .introduction.itd2.chn p.p_link{display: none;}
